@@ -1,6 +1,6 @@
 #ifndef __CSCREEN_H__
 #define __CSCREEN_H__
-#include <windows.h>
+#include <windows.h>asdasdsads
 class CSScreenException {
 public:
     CSScreenException(int _err) : err(_err) {}
